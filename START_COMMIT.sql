@@ -1,3 +1,5 @@
+
+SET autocommit = 0 ;
 SELECT * FROM accounts ;
 
  -- here we are starting a transaction between 2 people 
